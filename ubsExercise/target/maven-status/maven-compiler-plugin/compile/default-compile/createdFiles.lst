@@ -1,0 +1,13 @@
+com\ubs\exercise\dao\Trade.class
+com\ubs\exercise\util\SupportedInputTypes.class
+com\ubs\exercise\datareader\ReaderException.class
+com\ubs\exercise\datareader\ReaderFactory.class
+com\ubs\exercise\util\CurrencyConverter.class
+com\ubs\exercise\datareader\DelimitedFileReader.class
+com\ubs\exercise\datareader\ubdata\UBSDataProcessor.class
+com\ubs\exercise\datareader\Reader.class
+com\ubs\exercise\datareader\DataExtractor.class
+com\ubs\exercise\datareader\ubdata\UBSDataExtractor.class
+com\ubs\exercise\datareader\ProcessorException.class
+com\ubs\exercise\datareader\Processor.class
+com\ubs\exercise\datareader\ubdata\FileTest.class

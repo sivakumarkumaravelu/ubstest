@@ -1,0 +1,5 @@
+com\ubs\exercise\datareader\TestDelimitedFileReader$ContextConfiguration.class
+com\ubs\exercise\util\TestCurrencyConverter.class
+com\ubs\exercise\datareader\ubdata\TestUBSDataProcessor$ContextConfiguration.class
+com\ubs\exercise\datareader\ubdata\TestUBSDataProcessor.class
+com\ubs\exercise\datareader\TestDelimitedFileReader.class

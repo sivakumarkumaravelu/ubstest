@@ -1,0 +1,13 @@
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\DataExtractor.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\ProcessorException.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\ubdata\UBSDataProcessor.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\util\SupportedInputTypes.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\ReaderFactory.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\Reader.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\dao\Trade.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\DelimitedFileReader.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\ubdata\UBSDataExtractor.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\ReaderException.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\ubdata\FileTest.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\datareader\Processor.java
+C:\workspace\ubsExercise\src\main\java\com\ubs\exercise\util\CurrencyConverter.java

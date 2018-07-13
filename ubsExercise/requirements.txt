@@ -1,0 +1,23 @@
+Question:
+ 
+Given the supplied tab delimited input file (src/test/resources/FILE.DAT), 
+write a Java program that loads the data and determines the average amount in Euros (EUR), grouped by Country and Credit Rating.
+ 
+If a country is not available, the city should be used instead.
+ 
+Exchange Rates:
+GBP -> USD  = 1.654
+CHF -> USD  = 1.10
+EUR -> USD  = 1.35
+ 
+Rules:
+ 
+1. Duration of test is 3 hours
+2. You are expected to write a working Java program based on a tab delimited input file (which will be shared at the scheduled time)
+3. Code should be as much object oriented as possible
+4. Provide unit test cases (mandatory requirement) and specify algorithm/logic wherever applicable
+5. This exercise should be treated as a regular work task (i.e. apply usual professional development practices)
+6. You must work independently, no collaboration is permitted
+7. The candidate may conduct research either online or offline as they see fit, in order to complete the task
+8. You would need to download the attachment. The package is in the attachment
+9. You would need to complete the assignment in your local desktop. On completion, please zip your package and upload the same
